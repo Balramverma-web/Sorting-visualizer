@@ -7,5 +7,3 @@
 - Quick Sort
 - Merge Sort
 
-[Check out the website here](https://anupamgupta2000.github.io/SortingVisualizer.github.io/)
-
